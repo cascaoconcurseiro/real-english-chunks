@@ -1,4 +1,28 @@
-# vinext-starter
+# REAL ENGLISH — aprendizagem por chunks
+
+Plataforma full-stack de aprendizagem de inglês real, do A1 ao B2, com chunks, recuperação ativa e revisão espaçada.
+
+> O produto ainda está em desenvolvimento. Consulte [a documentação completa](./docs/README.md) para conhecer a visão, os requisitos, o método pedagógico, os anti-padrões de IA, o estado atual e o roadmap.
+
+## Estado atual
+
+- Site privado com persistência individual em D1.
+- Cards de estudo com autoavaliação.
+- 12 chunks-semente no catálogo atual.
+- Agendamento adaptativo inicial, ainda não equivalente a uma implementação validada de FSRS.
+- Áudio natural, catálogo de 1.000+ chunks, progressão completa e CMS editorial constam no roadmap.
+
+## Documentação do produto
+
+- [Histórico de comandos e decisões](./docs/01-HISTORICO-DE-COMANDOS.md)
+- [Visão e requisitos](./docs/02-VISAO-E-REQUISITOS.md)
+- [Método pedagógico](./docs/03-METODO-PEDAGOGICO.md)
+- [Padrões de IA que devemos evitar](./docs/04-ANTI-PADROES-DE-IA.md)
+- [Arquitetura e progressão](./docs/05-ARQUITETURA-E-PROGRESSAO.md)
+- [Definition of Done](./docs/06-DEFINITION-OF-DONE.md)
+- [Estado atual e roadmap](./docs/07-ESTADO-ATUAL-E-ROADMAP.md)
+
+## Base técnica
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
 
